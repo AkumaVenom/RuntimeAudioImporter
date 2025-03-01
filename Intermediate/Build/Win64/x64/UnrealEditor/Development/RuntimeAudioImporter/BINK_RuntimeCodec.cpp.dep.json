@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\private\\codecs\\bink_runtimecodec.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\intermediate\\build\\win64\\x64\\desktoppaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runtimeaudioimporter\\definitions.runtimeaudioimporter.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\codecs\\bink_runtimecodec.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\codecs\\baseruntimecodec.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\runtimeaudioimportertypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\audiocapturecore\\public\\audiocapturedeviceinterface.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\runtimeaudioimporterdefines.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\runtimeaudioimporter\\uht\\runtimeaudioimportertypes.generated.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\codecs\\raw_runtimecodec.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\signalprocessing\\public\\samplebuffer.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\signalprocessing\\public\\dsp\\floatarraymath.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\binkaudiodecoder\\module\\public\\binkaudioinfo.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\public\\audiodecompress.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\developer\\targetplatform\\public\\interfaces\\iaudioformat.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\algo\\indexof.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\private\\codecs\\codecincludes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\binkaudiodecoder\\sdk\\binkaudio\\include\\binka_ue_file_header.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\binkaudiodecoder\\sdk\\binkaudio\\include\\binka_ue_encode.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

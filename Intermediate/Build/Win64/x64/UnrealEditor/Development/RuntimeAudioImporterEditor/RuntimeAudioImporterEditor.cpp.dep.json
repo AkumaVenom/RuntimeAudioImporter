@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimportereditor\\private\\runtimeaudioimportereditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\intermediate\\build\\win64\\x64\\desktoppaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runtimeaudioimportereditor\\definitions.runtimeaudioimportereditor.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimportereditor\\public\\runtimeaudioimportereditor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\private\\sound\\streamingsoundwave.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\intermediate\\build\\win64\\x64\\desktoppaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runtimeaudioimporter\\definitions.runtimeaudioimporter.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\sound\\streamingsoundwave.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\sound\\importedsoundwave.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\runtimeaudioimportertypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\audiocapturecore\\public\\audiocapturedeviceinterface.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\runtimeaudioimporterdefines.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\runtimeaudioimporter\\uht\\runtimeaudioimportertypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\sound\\soundwaveprocedural.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundwaveprocedural.generated.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\runtimeaudioimporter\\uht\\importedsoundwave.generated.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\runtimeaudioimporter\\uht\\streamingsoundwave.generated.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\runtimeaudioimporterlibrary.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\runtimeaudioimporter\\uht\\runtimeaudioimporterlibrary.generated.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\codecs\\raw_runtimecodec.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\signalprocessing\\public\\samplebuffer.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\signalprocessing\\public\\dsp\\floatarraymath.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\public\\vad\\runtimevoiceactivitydetector.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\runtimeaudioimporter\\uht\\runtimevoiceactivitydetector.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

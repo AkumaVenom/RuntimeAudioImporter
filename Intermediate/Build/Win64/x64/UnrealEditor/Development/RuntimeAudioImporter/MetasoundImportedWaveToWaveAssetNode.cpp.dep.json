@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimporter\\private\\metasound\\metasoundimportedwavetowaveassetnode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\intermediate\\build\\win64\\x64\\desktoppaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runtimeaudioimporter\\definitions.runtimeaudioimporter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

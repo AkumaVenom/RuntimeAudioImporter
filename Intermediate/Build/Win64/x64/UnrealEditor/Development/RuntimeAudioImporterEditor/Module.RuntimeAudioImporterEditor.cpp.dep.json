@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runtimeaudioimportereditor\\module.runtimeaudioimportereditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\intermediate\\build\\win64\\x64\\desktoppaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runtimeaudioimportereditor\\definitions.runtimeaudioimportereditor.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\runtimeaudioimportereditor\\uht\\preimportedsoundfactory.gen.cpp",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\source\\runtimeaudioimportereditor\\public\\preimportedsoundfactory.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\editorreimporthandler.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\runtimeaudioimportereditor\\uht\\preimportedsoundfactory.generated.h",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\unrealeditor\\inc\\runtimeaudioimportereditor\\uht\\runtimeaudioimportereditor.init.gen.cpp",
+            "c:\\users\\akuma\\onedrive\\documents\\unreal projects\\desktoppal-ue5\\plugins\\runtimeaudioimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\runtimeaudioimportereditor\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

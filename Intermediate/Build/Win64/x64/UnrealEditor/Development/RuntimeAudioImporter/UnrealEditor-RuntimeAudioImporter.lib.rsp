@@ -1,0 +1,30 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RuntimeAudioImporter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Intermediate\Build\Win64\x64\DesktopPalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\Module.RuntimeAudioImporter.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\PreImportedSoundAsset.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\RuntimeAudioExporter.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\RuntimeAudioImporter.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\RuntimeAudioImporterLibrary.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\RuntimeAudioTranscoder.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\RuntimeAudioUtilities.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\BINK_RuntimeCodec.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\FLAC_RuntimeCodec.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\MP3_RuntimeCodec.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\RuntimeCodecFactory.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\VORBIS_RuntimeCodec.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\WAV_RuntimeCodec.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\MetasoundImportedWave.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\MetasoundImportedWaveToWaveAssetNode.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\CapturableSoundWave.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\ImportedSoundWave.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\StreamingSoundWave.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\RuntimeVoiceActivityDetector.cpp.obj"
+"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\Default.rc2.res"
+/OUT:"C:\Users\Akuma\OneDrive\Documents\Unreal Projects\DesktopPal-UE5\Plugins\RuntimeAudioImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeAudioImporter\UnrealEditor-RuntimeAudioImporter.lib"

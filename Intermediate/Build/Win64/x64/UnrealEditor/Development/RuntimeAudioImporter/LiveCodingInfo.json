@@ -1,0 +1,37 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RuntimeAudioImporter.cpp.obj": [
+			"CapturableSoundWave.gen.cpp.obj",
+			"ImportedSoundWave.gen.cpp.obj",
+			"PreImportedSoundAsset.gen.cpp.obj",
+			"RuntimeAudioExporter.gen.cpp.obj",
+			"RuntimeAudioImporter.init.gen.cpp.obj",
+			"RuntimeAudioImporterLibrary.gen.cpp.obj",
+			"RuntimeAudioImporterTypes.gen.cpp.obj",
+			"RuntimeAudioTranscoder.gen.cpp.obj",
+			"RuntimeAudioUtilities.gen.cpp.obj",
+			"RuntimeVoiceActivityDetector.gen.cpp.obj",
+			"StreamingSoundWave.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"BINK_RuntimeCodec.cpp.obj",
+			"FLAC_RuntimeCodec.cpp.obj",
+			"MP3_RuntimeCodec.cpp.obj",
+			"RuntimeCodecFactory.cpp.obj",
+			"VORBIS_RuntimeCodec.cpp.obj",
+			"WAV_RuntimeCodec.cpp.obj",
+			"MetasoundImportedWave.cpp.obj",
+			"MetasoundImportedWaveToWaveAssetNode.cpp.obj",
+			"PreImportedSoundAsset.cpp.obj",
+			"RuntimeAudioExporter.cpp.obj",
+			"RuntimeAudioImporter.cpp.obj",
+			"RuntimeAudioImporterLibrary.cpp.obj",
+			"RuntimeAudioTranscoder.cpp.obj",
+			"RuntimeAudioUtilities.cpp.obj",
+			"CapturableSoundWave.cpp.obj",
+			"ImportedSoundWave.cpp.obj",
+			"StreamingSoundWave.cpp.obj",
+			"RuntimeVoiceActivityDetector.cpp.obj"
+		]
+	}
+}
